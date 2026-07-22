@@ -75,8 +75,3 @@ Retail-Sales-Analytics-Dashboard/
 
 ---
 
-## 👨‍💻 Author
-
-**Adarsh Boja**
-
-Aspiring Data Analyst
